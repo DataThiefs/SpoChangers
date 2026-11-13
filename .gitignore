@@ -1,0 +1,17 @@
+# Gizli bilgiler
+.env
+.cache
+.cache-*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Editör / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
