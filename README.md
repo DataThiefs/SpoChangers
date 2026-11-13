@@ -17,6 +17,8 @@ Python 3.10 veya üstü lazım.
 
 ```
 pip install -r requirements.txt
+
+python -m pip install -r requirements.txt
 ```
 
 [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)'dan bir uygulama oluştur, Redirect URI kısmına `http://127.0.0.1:8080` ekle. Client ID ve Client Secret'ı oradan alacaksın.
